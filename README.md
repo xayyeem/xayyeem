@@ -15,11 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/xayyeem](https://github.com/xayyeem)
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/viewhttps://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/view](https://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/viewhttps://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/view)
+
 - 💬 Ask me about **react, MongoDb**
 
 - 📫 How to reach me **khalidhaiderjafri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/viewhttps://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/view](https://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/viewhttps://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/view)
+- ⚡ Fun Fact I conquered a coding maze recently, turning bugs into features like a coding wizard!](I conquered a coding maze recently, turning bugs into features like a coding wizard!
 
 - 😄 Pronoun **He/Him**
 
