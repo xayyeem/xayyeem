@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png)]
+[![MasterHead](https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg)] 
 <h1 align="center">Hi 👋, I'm Khalid Haider Jafri</h1>
 <h3 align="center">🎓 I'm a final-year Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
