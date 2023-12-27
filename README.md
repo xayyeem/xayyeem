@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **khalidhaiderjafri@gmail.com**
 
-- ⚡ Fun Fact I conquered a coding maze recently, turning bugs into features like a coding wizard!](I conquered a coding maze recently, turning bugs into features like a coding wizard!
+- ⚡ Fun Fact I conquered a coding maze recently, turning bugs into features like a coding wizard!
 
 - 😄 Pronoun **He/Him**
 
