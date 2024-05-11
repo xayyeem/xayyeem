@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 📝 I regularly write articles on []
+- 📝 I regularly write articles on [X](https://x.com/khalidjafri11)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/xayyeem)
 
