@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/xayyeem)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/viewhttps://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dqTcNhituDXEkYjkAOQGjSBSH4eSWZX-/view?usp=sharing)
 
 - 💬 Ask me about **react, MongoDb**, **Nodejs**, **Express**
 
