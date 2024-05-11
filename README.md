@@ -17,9 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/xayyeem)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/viewhttps://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/view](https://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/viewhttps://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/viewhttps://drive.google.com/file/d/1lB7lMW1ywY2hZfX-QmYCx2fpnTJhfwqK/view)
 
-- 💬 Ask me about **react, MongoDb**
+- 💬 Ask me about **react, MongoDb**, **Nodejs**, **Express**
 
 - 📫 How to reach me **khalidhaiderjafri@gmail.com**
 
